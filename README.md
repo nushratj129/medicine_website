@@ -1,7 +1,6 @@
 # medicine_website
 
 Online Medicine Guide is a complete medicine inventory management system. This system is web-based which is written in PHP and MYSQL. Continuously, consists of one main component Admin side and user side. Firstly, the user needs to sign up and then log in to the system. Secondly, the user will get the see the product list. Inside the product, they can see medicine name, description for that medicine will recover patients. Eventually, they will see the price of medicine. If they want the medicine then they can add to cart.
-After the admin will accept the request then they will deliver the medicine. User can Find Pharmacy with their address and the contact number, they can even find the ambulance with name and region. deliver your medicine as soon as possible.
  For the database connection first, we need to create the database named medicineguide.sql in the localhost/phpmyadmin/ and then we  can import the database which is found medicineguide.sql file.
 
 The technologies used in this project are:
